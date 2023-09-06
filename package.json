@@ -1,0 +1,17 @@
+{
+  "name": "web_bro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dummy",
+    "test",
+    "fake server"
+  ],
+  "author": "Bobur Zokirov",
+  "license": "ISC"
+}
